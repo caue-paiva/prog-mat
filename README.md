@@ -2,7 +2,7 @@
 
 Repositório de materiais da disciplina e documentação para um agente implementar o projeto de **Bin Packing**. Ainda não há implementação nem resultados experimentais.
 
-**Tema do grupo:** armazenamento de recursos em jogo de sobrevivência fictício, com capacidades diferentes e incompatibilidades. [Definição e Apresentação 1 em 11/11 — Aula 21](projeto/TEMA_DO_GRUPO.md).
+**Tema do grupo:** armazenamento de recursos em jogo de sobrevivência fictício, com capacidades diferentes e incompatibilidades. [Definição e Apresentação 1 em 11/11 - Aula 21](projeto/TEMA_DO_GRUPO.md).
 
 ## Organização
 

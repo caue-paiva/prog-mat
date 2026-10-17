@@ -30,12 +30,12 @@ Repositório de materiais da disciplina e documentação para um agente implemen
 
 | Material | Resumo |
 |---|---|
-| Aula 02 — modelagem contínua | [Aula 02](contexto/resumos/AULA_02.md) |
-| Aula 03 — transporte e designação | [Aula 03](contexto/resumos/AULA_03.md) |
-| Aula 04 — corte e empacotamento | [Aula 04](contexto/resumos/AULA_04.md) |
-| Aula 05 — programação inteira e Bin Packing | [Aula 05](contexto/resumos/AULA_05.md) |
-| Aula 06 — localização, Big-M e coloração | [Aula 06](contexto/resumos/AULA_06.md) |
-| Aula 08 — cobertura, empacotamento e partição | [Aula 08](contexto/resumos/AULA_08.md) |
+| Aula 02 - modelagem contínua | [Aula 02](contexto/resumos/AULA_02.md) |
+| Aula 03 - transporte e designação | [Aula 03](contexto/resumos/AULA_03.md) |
+| Aula 04 - corte e empacotamento | [Aula 04](contexto/resumos/AULA_04.md) |
+| Aula 05 - programação inteira e Bin Packing | [Aula 05](contexto/resumos/AULA_05.md) |
+| Aula 06 - localização, Big-M e coloração | [Aula 06](contexto/resumos/AULA_06.md) |
+| Aula 08 - cobertura, empacotamento e partição | [Aula 08](contexto/resumos/AULA_08.md) |
 | Modelagem com variáveis inteiras, parte 2 | [Variáveis inteiras](contexto/resumos/MODELAGEM_VARIAVEIS_INTEIRAS.md) |
 | Caixeiro Viajante | [Caixeiro Viajante](contexto/resumos/CAIXEIRO_VIAJANTE.md) |
 | Atividade de avaliação contínua | [Atividade](contexto/resumos/ATIVIDADE.md) |

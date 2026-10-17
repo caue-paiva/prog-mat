@@ -1,4 +1,4 @@
-# Programação Matemática — contexto para o projeto
+# Programação Matemática | contexto para o projeto
 
 Repositório de materiais da disciplina e documentação para um agente implementar o projeto de **Bin Packing**. Ainda não há implementação nem resultados experimentais.
 

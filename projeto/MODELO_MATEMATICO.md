@@ -1,5 +1,7 @@
 # Modelo matemático base e adaptações
 
+**Contexto atualizado:** o [tema do grupo](TEMA_DO_GRUPO.md) define baús heterogêneos e incompatibilidades, com Apresentação 1 em 11/11 — Aula 21. Os exemplos uniformes deste arquivo são a base; a implementação e o relatório devem seguir a variante escolhida. [Recursos externos](../contexto/recursos/README.md) complementam APIs, heurística e experimentos.
+
 Fonte: enunciado, pp. 2–3, e Aula 05, pp. 37–39. As extensões abaixo são recomendações, não requisitos adicionais.
 
 ## Bin Packing unidimensional
@@ -47,4 +49,4 @@ Não usar um Big-M arbitrário: `C` já é o limite físico da restrição de ca
 
 **Questões de prova:** fixar altura útil após margens/cabeçalhos; tratar cada questão como indivisível apenas se essa for a regra acordada. Minimizar páginas com soma de alturas não assegura legibilidade, ordem original ou penalidade por fragmentação: explicitar tais condições quando exigidas.
 
-Essas variantes não foram escolhidas pelo usuário. Não as implementar todas por padrão.
+O usuário escolheu capacidades heterogêneas e incompatibilidades, conforme o documento do tema. As demais extensões continuam opcionais e não devem ser acrescentadas por padrão.

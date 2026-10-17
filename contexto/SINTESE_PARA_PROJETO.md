@@ -1,6 +1,6 @@
 # Síntese das aulas para implementar Bin Packing
 
-Esta seção conecta os PDFs ao projeto. Os fundamentos vêm dos materiais locais; recomendações derivadas são marcadas como tal. Índice completo no [README](../README.md).
+Esta seção conecta os PDFs ao projeto. O [tema do grupo](../projeto/TEMA_DO_GRUPO.md) define baús heterogêneos e incompatibilidades; os [recursos externos](recursos/README.md) complementam os slides com APIs, heurística e experimentos. Os fundamentos vêm dos materiais locais; recomendações derivadas são marcadas como tal. Índice completo no [README](../README.md).
 
 ## O que aproveitar primeiro
 
@@ -27,7 +27,7 @@ Relaxa-se a integralidade para obter uma estimativa, não uma alocação final. 
 
 ## Recomendações derivadas para o projeto
 
-Usar primeiro a formulação compacta da Aula 05, reproduzida em `../projeto/MODELO_MATEMATICO.md`. Escolher uma aplicação cujas regras possam ser descritas e verificadas. Se houver CPU e RAM, impor capacidade separadamente em cada dimensão: somar recursos incompatíveis numa única unidade não é justificável sem uma transformação validada.
+Usar primeiro a formulação compacta da Aula 05, reproduzida em `../projeto/MODELO_MATEMATICO.md`. Para a aplicação escolhida, explicitar tamanho dos recursos, inventário de baús e compatibilidade entre categorias. Se houver CPU e RAM, impor capacidade separadamente em cada dimensão: somar recursos incompatíveis numa única unidade não é justificável sem uma transformação validada.
 
 Não acrescentar roteamento só porque há caminhões: distribuir cargas em veículos é BPP; decidir a sequência de visitas é outro problema. Não acrescentar geometria 2D/3D apenas porque itens têm volume: capacidade agregada não assegura encaixe físico.
 
@@ -36,3 +36,20 @@ FFD/BFD são sugestões do **enunciado**; os slides locais não fornecem uma esp
 ## Leitura crítica dos materiais
 
 Há slides com datas de 2024/2025 e uma atividade de 2026. São materiais de contexto, sem determinar prazos do projeto. Os resumos preservam conceitos e exemplos úteis e apontam inconsistências numéricas identificadas nas Aulas 02, 04 e 05. As fórmulas normalizadas não devem ser tratadas como transcrição literal de imagens ou trechos com índices trocados.
+
+## Material adicional — Simplex e sequenciamento
+
+Foram incorporados seis PDFs adicionais, resumidos individualmente no [índice](../README.md). Eles têm prioridade complementar para o projeto:
+
+| Material | Contribuição |
+|---|---|
+| DefinicaoVerticeSolucaobasica | Forma padrão, convexidade e relação entre vértices e bases |
+| Aula13PM | Custos reduzidos e certificado de otimalidade em PL |
+| Aula14SimplexDeterminandoSolucaoMelhor | Direção de melhoria, razão mínima e pivoteamento |
+| BaseInicialSimplex | Fase I/II, infactibilidade, degenerescência e múltiplos ótimos |
+| Simplex-revisado | Reutilização de informação entre iterações e custo de álgebra linear |
+| PI_Scheduling | Precedência, atraso total e vínculos temporais com Big-M |
+
+Esses materiais melhoram a fundamentação sobre PLs, mas não ensinam execução em Gurobi/SCIP nem heurísticas de Bin Packing. Um Simplex próprio resolve PL; não atende, por si só, à exigência de método alternativo de empacotamento. O sequenciamento ilustrado também não é BPP.
+
+A [avaliação de cobertura](COBERTURA_DO_ENUNCIADO.md) detalha as lacunas que permanecem e como completá-las. Não é necessário implementar Simplex, Fase I ou atualização da inversa para cumprir este projeto. As ressalvas dos novos resumos incluem degenerescência, hipóteses sobre poliedros e índices de nós fictícios.

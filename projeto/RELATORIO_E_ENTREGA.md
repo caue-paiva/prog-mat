@@ -1,5 +1,7 @@
 # Roteiro do relatório e conferência de entrega
 
+**Contexto atualizado:** o [tema do grupo](TEMA_DO_GRUPO.md) define baús heterogêneos e incompatibilidades, com Apresentação 1 em 11/11 — Aula 21. Os exemplos uniformes deste arquivo são a base; a implementação e o relatório devem seguir a variante escolhida. [Recursos externos](../contexto/recursos/README.md) complementam APIs, heurística e experimentos.
+
 As cinco seções abaixo seguem a ordem do enunciado, pp. 3–4. Os artefatos sugeridos servem para orientar o desenvolvimento, sem substituir o relatório final.
 
 ## 1. Introdução

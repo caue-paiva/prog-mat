@@ -48,5 +48,35 @@
     "arquivo": "enunciado/Projeto_PM_BCC_2026.pdf",
     "paginas": 4,
     "sha256": "4d66b7bc948c360204c1c3fed5d915c83c00917a2511034c8cc0e38bc8815ee5"
+  },
+  {
+    "arquivo": "contexto/pdfs/DefinicaoVerticeSolucaobasica.pdf",
+    "paginas": 51,
+    "sha256": "e78aa25c2b658473ecc0a72e3b7157b0f241abcd16554520f9df257faafa6731"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula13PM.pdf",
+    "paginas": 50,
+    "sha256": "d302856bcc4a5131e18c0f106402722c374ce79596c34890d55d49d74b34176e"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula14SimplexDeterminandoSolucaoMelhor.pdf",
+    "paginas": 41,
+    "sha256": "a8654180dd4f2aa58b338f0344486dd75bd85179332fb591a91714045526a72f"
+  },
+  {
+    "arquivo": "contexto/pdfs/BaseInicialSimplex.pdf",
+    "paginas": 39,
+    "sha256": "079014ed1ea0dffe646d58bf043ad42bbb8880a3b0c18cc74325c8e7336b47a9"
+  },
+  {
+    "arquivo": "contexto/pdfs/Simplex-revisado.pdf",
+    "paginas": 25,
+    "sha256": "8077208182771624bd5180e883c15beeac32f73697d1043cdfd6d8228dd308a1"
+  },
+  {
+    "arquivo": "contexto/pdfs/PI_Scheduling.pdf",
+    "paginas": 37,
+    "sha256": "72dace2cd67f4b357625dbf45154a4357664f225e969d2f25c7debe7d078ea72"
   }
 ]

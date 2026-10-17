@@ -1,10 +1,12 @@
 # Proposta de implementação e experimentos
 
+**Contexto atualizado:** o [tema do grupo](TEMA_DO_GRUPO.md) define baús heterogêneos e incompatibilidades, com Apresentação 1 em 11/11 — Aula 21. Os exemplos uniformes deste arquivo são a base; a implementação e o relatório devem seguir a variante escolhida. [Recursos externos](../contexto/recursos/README.md) complementam APIs, heurística e experimentos.
+
 Tudo neste arquivo é orientação técnica proposta, subordinada aos [requisitos oficiais](../enunciado/REQUISITOS.md). Não há código implementado neste estágio.
 
 ## Sequência sugerida
 
-1. Registrar a aplicação real, unidades, restrições, fonte de dados e hipóteses com o grupo.
+1. Partir do tema definido e registrar unidades, inventário de baús, matriz de conflitos, fonte de dados e hipóteses com o grupo.
 2. Implementar leitura de instâncias e um validador independente.
 3. Implementar FFD como referência para BPP 1D (BFD é opção adicional).
 4. Implementar a mesma formulação em Gurobi e SCIP, com resultados normalizados.

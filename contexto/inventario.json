@@ -1,0 +1,52 @@
+[
+  {
+    "arquivo": "contexto/pdfs/Atividade.pdf",
+    "paginas": 6,
+    "sha256": "89bdc2e17c7747be206f7c2ceee3aad33d99f841bcdd286ea70be9a5ce7a6f2c"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula 05.pdf",
+    "paginas": 48,
+    "sha256": "bc16b6f61f5c64134aa5d77c8e28fe1e3715ce69d18f2d25a431120a8534c6fe"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula 06.pdf",
+    "paginas": 34,
+    "sha256": "9c60771fed54be946cd1d306c914579129104c3c90566ecbb481a4196cb4556f"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula 08.pdf",
+    "paginas": 22,
+    "sha256": "3f84094b68450ed89419e21ff0e6cca29f4396ce2b3bc795883a87f3c2d00180"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula-ModelagemVarInteiras-01-Parte2.pdf",
+    "paginas": 31,
+    "sha256": "5886a776ca7d1780665d5f5e2f7d094e030fcea966f63a8df422e551323bbc78"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula02PM (1).pdf",
+    "paginas": 70,
+    "sha256": "229fd85753d4f8fffd6f1cee10f5567aead49f5deec4428bc8b1f420b916f61b"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula03PM (1).pdf",
+    "paginas": 30,
+    "sha256": "76bad587b369ce4e583bfeda2e30fc51a35c54f8ed7f21a4ed83d51b777ab5f4"
+  },
+  {
+    "arquivo": "contexto/pdfs/Aula04PM (1).pdf",
+    "paginas": 51,
+    "sha256": "ac3375b695926d05a968086638329e91f4d3c187b459e9ceddbfd610707bbce7"
+  },
+  {
+    "arquivo": "contexto/pdfs/Caixeiro Viajante.pdf",
+    "paginas": 46,
+    "sha256": "5de4fc948c6104299921f8e10920765a7644b97f692415574ccd85ccf544cb7b"
+  },
+  {
+    "arquivo": "enunciado/Projeto_PM_BCC_2026.pdf",
+    "paginas": 4,
+    "sha256": "4d66b7bc948c360204c1c3fed5d915c83c00917a2511034c8cc0e38bc8815ee5"
+  }
+]

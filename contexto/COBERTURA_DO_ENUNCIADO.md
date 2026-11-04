@@ -67,3 +67,4 @@ Foram acrescentados guias Markdown baseados em fontes primárias consultadas em 
 Tema escolhido: armazenamento de recursos de jogo de sobrevivência fictício com incompatibilidades e capacidades heterogêneas, minimizando a quantidade de baús. O grupo informou Apresentação 1 em **11/11 — Aula 21**, com modelagem e solução utilizando solver. Ainda faltam inventário, unidades e matriz de compatibilidade; a correspondência do cenário fictício à exigência de aplicação real deve ser alinhada com o professor.
 
 A lacuna de recursos introdutórios tem agora um caminho documentado. Isso não equivale a bibliotecas instaladas, modelo validado, experimentos concluídos ou regras do cenário já aprovadas.
+

@@ -29,3 +29,4 @@ Essas ordens são por iteração, para as operações descritas; não constituem
 O projeto não exige escrever um Simplex próprio. Essa tarefa acrescentaria escopo sem resolver as principais lacunas da entrega.
 
 Fonte: [Simplex-revisado.pdf](../pdfs/Simplex-revisado.pdf), 25 páginas.
+

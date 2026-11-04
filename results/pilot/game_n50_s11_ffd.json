@@ -1,0 +1,159 @@
+{
+  "instance_id": "game_n50_s11",
+  "method": "ffd",
+  "status": "feasible",
+  "raw_status": "complete",
+  "objective": 15,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i001",
+        "i003",
+        "i027"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i005",
+        "i014",
+        "i024"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i009",
+        "i026",
+        "i033"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i000",
+        "i007",
+        "i004"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i002",
+        "i018",
+        "i016"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i019",
+        "i011"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i038",
+        "i039"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i045",
+        "i044",
+        "i035"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b008",
+      "items": [
+        "i022",
+        "i025",
+        "i028"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b009",
+      "items": [
+        "i030",
+        "i034",
+        "i042"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b010",
+      "items": [
+        "i020",
+        "i029",
+        "i037",
+        "i006"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b011",
+      "items": [
+        "i021",
+        "i041",
+        "i047",
+        "i008"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b012",
+      "items": [
+        "i012",
+        "i031",
+        "i032",
+        "i040",
+        "i043",
+        "i046",
+        "i048"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b013",
+      "items": [
+        "i010",
+        "i015",
+        "i036",
+        "i049"
+      ],
+      "load": 4
+    },
+    {
+      "chest_id": "b014",
+      "items": [
+        "i013",
+        "i017",
+        "i023"
+      ],
+      "load": 3
+    }
+  ],
+  "lower_bound": 14,
+  "native_gap": null,
+  "gap_percent": null,
+  "distance_to_bound_percent": 7.142857142857143,
+  "optimization_seconds": null,
+  "build_seconds": null,
+  "total_seconds": 0.00010833299995738344,
+  "validated": true,
+  "n": 50,
+  "input_sha256": "f9c5dc3aa1df38f997352cf4739d646e5ee730523313fa556f0b0d37005dd8fa"
+}

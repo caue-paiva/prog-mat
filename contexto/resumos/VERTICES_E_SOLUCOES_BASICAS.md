@@ -23,3 +23,4 @@ A afirmação da p. 27 de que a região factível é o casco convexo dos vértic
 Reforça a geometria da relaxação linear do BPP e a diferença entre factibilidade e otimalidade. Uma solução básica pode ser fracionária; “estar num vértice” não prova integralidade. Não ensina APIs de solvers, FFD/BFD, instâncias experimentais ou aplicação real. Material complementar, não necessário para reimplementar álgebra de um solver no projeto.
 
 Fonte: [DefinicaoVerticeSolucaobasica.pdf](../pdfs/DefinicaoVerticeSolucaobasica.pdf), 51 páginas.
+

@@ -81,3 +81,4 @@ Se isso ocorrer, registrar **heurística sem solução completa**, não “inst�
 ## Leitura do agente
 
 Consultar [modelo base e variantes](MODELO_MATEMATICO.md), [implementação](IMPLEMENTACAO.md), [recursos externos](../contexto/recursos/README.md) e [requisitos oficiais](../enunciado/REQUISITOS.md). O modelo uniforme e os exemplos de API desses documentos são base didática; a implementação final deve representar `C_j` e E e validar as mesmas regras em todos os métodos.
+

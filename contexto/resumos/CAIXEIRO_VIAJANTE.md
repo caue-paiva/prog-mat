@@ -40,3 +40,4 @@ O exercício de postos de saúde exige servir seis povoados a distância de até
 Recordes e números históricos do PDF não foram atualizados nem devem ser apresentados como recordes atuais. Para o projeto de BPP, aproveitar a lição de que restrições locais podem ser insuficientes para propriedades globais e de que uma formulação correta precisa ser auditada com contraexemplos. Não adicionar MTZ ao BPP sem uma decisão explícita de modelar também rotas.
 
 Fonte: [Caixeiro Viajante.pdf](../pdfs/Caixeiro%20Viajante.pdf), 46 páginas.
+

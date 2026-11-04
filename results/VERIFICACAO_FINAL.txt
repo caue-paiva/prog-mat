@@ -1,0 +1,6 @@
+04/11/2026
+34 testes aprovados no diretório original e após extração limpa.
+Pacote Python construído e instalado com sucesso.
+CLI SCIP em game_n20_s22: ótimo 5; validação independente aprovada.
+27 soluções completas revalidadas e hashes das entradas do piloto conferidos.
+PDF de 6 páginas renderizado e inspecionado.

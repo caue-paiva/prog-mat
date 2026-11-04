@@ -1,0 +1,16 @@
+
+Gurobi 13.0.3 (linux64) logging started Wed Nov  4 13:14:33 2026
+
+Set parameter LogFile to value "results/pilot/game_n100_s11_gurobi.log"
+Gurobi Optimizer version 13.0.3 build v13.0.3rc0 (linux64 - "Ubuntu 24.04.3 LTS")
+
+CPU model: unknown, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 9 physical cores, 9 logical processors, using up to 1 threads
+
+Non-default parameters:
+TimeLimit  10
+MIPGap  0
+MIPGapAbs  0
+LogToConsole  0
+Threads  1
+

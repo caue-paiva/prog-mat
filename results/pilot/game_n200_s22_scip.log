@@ -1,0 +1,15 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 179958 upgd conss, 0 impls, 180558 clqs, 0 implints
+(round 2, exhaustive) 0 del vars, 12060 del conss, 60 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 179958 upgd conss, 0 impls, 181078 clqs, 0 implints
+   (10.0s) probing: 513/12060 (4.3%) - 0 fixings, 0 aggregations, 187412 implications, 0 bound changes
+   (10.0s) probing aborted: solving stopped
+presolving (3 rounds: 3 fast, 3 medium, 3 exhaustive):
+ 0 deleted vars, 12060 deleted constraints, 60 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 0 implications, 368490 cliques, 0 implied integral variables (0 bin, 0 int, 0 cont)
+presolving was interrupted.
+Presolving Time: 9.87
+
+SCIP Status        : solving was interrupted [time limit reached]
+Solving Time (sec) : 10.01
+Solving Nodes      : 0
+Primal Bound       : +1.00000000000000e+20 (0 solutions)

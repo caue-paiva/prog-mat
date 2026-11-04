@@ -37,3 +37,4 @@ Minimizar cores usadas. `x_uc` atribui cor c ao vértice u e `y_c` ativa a cor. 
 Abrir uma instalação e atribuir clientes é estruturalmente parecido com ativar caixas e alocar itens. Custos de atendimento e exatamente p instalações pertencem a variantes de localização; não são requisitos do BPP. As restrições de coloração inspiram incompatibilidades entre itens, caso a aplicação escolhida as exija.
 
 Fonte: [Aula 06.pdf](../pdfs/Aula%2006.pdf), 34 páginas.
+

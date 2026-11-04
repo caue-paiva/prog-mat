@@ -1,0 +1,162 @@
+{
+  "instance_id": "game_n50_s11",
+  "method": "scip",
+  "status": "optimal",
+  "raw_status": "optimal",
+  "objective": 14,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i000",
+        "i001",
+        "i006"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i002",
+        "i004",
+        "i007"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i003",
+        "i008",
+        "i013",
+        "i015",
+        "i016",
+        "i017",
+        "i023"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i005",
+        "i010",
+        "i011",
+        "i012"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i009",
+        "i014",
+        "i027"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i018",
+        "i020",
+        "i024",
+        "i036"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i019",
+        "i022",
+        "i031"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i021",
+        "i026",
+        "i033"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b008",
+      "items": [
+        "i025",
+        "i028",
+        "i029",
+        "i049"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b009",
+      "items": [
+        "i030",
+        "i032",
+        "i034",
+        "i035"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b010",
+      "items": [
+        "i037",
+        "i038",
+        "i040"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b011",
+      "items": [
+        "i039",
+        "i042",
+        "i043"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b012",
+      "items": [
+        "i041",
+        "i044",
+        "i046",
+        "i048"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b013",
+      "items": [
+        "i045",
+        "i047"
+      ],
+      "load": 11
+    }
+  ],
+  "lower_bound": 14.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.03346050799996192,
+  "optimization_seconds": 0.155689,
+  "total_seconds": 0.19072605899998507,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "PySCIPOpt 6.3.0; SCIP 10.0.2",
+  "candidate_chests": 15,
+  "n": 50,
+  "input_sha256": "f9c5dc3aa1df38f997352cf4739d646e5ee730523313fa556f0b0d37005dd8fa"
+}

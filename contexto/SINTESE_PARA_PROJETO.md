@@ -53,3 +53,4 @@ Foram incorporados seis PDFs adicionais, resumidos individualmente no [índice](
 Esses materiais melhoram a fundamentação sobre PLs, mas não ensinam execução em Gurobi/SCIP nem heurísticas de Bin Packing. Um Simplex próprio resolve PL; não atende, por si só, à exigência de método alternativo de empacotamento. O sequenciamento ilustrado também não é BPP.
 
 A [avaliação de cobertura](COBERTURA_DO_ENUNCIADO.md) detalha as lacunas que permanecem e como completá-las. Não é necessário implementar Simplex, Fase I ou atualização da inversa para cumprir este projeto. As ressalvas dos novos resumos incluem degenerescência, hipóteses sobre poliedros e índices de nós fictícios.
+

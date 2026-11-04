@@ -1,0 +1,29 @@
+{
+  "instance_id": "game_n100_s22",
+  "method": "gurobi",
+  "status": "unavailable",
+  "raw_status": null,
+  "objective": null,
+  "bins": [],
+  "lower_bound": null,
+  "native_gap": null,
+  "gap_percent": null,
+  "build_seconds": 0.18453108799997153,
+  "optimization_seconds": null,
+  "total_seconds": 0.18869170499999655,
+  "validated": false,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "13.0.3",
+  "candidate_chests": 29,
+  "error": "Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information",
+  "error_code": 10010,
+  "n": 100,
+  "input_sha256": "8ef1fd7fd3e1dbe1d2204c58c6bead12ef1832def94726c538afd31518d9df6d"
+}

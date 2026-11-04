@@ -39,3 +39,4 @@ Para o padrão `(1,2,0)`, a perda correta com os dados apresentados é `170−30
 No BPP com itens individuais, cada item deve aparecer exatamente uma vez; no corte por tipos, `≥ demanda` permite sobreprodução. Não copiar a desigualdade de atendimento de corte para a atribuição individual do BPP. A formulação compacta por item/caixa é suficiente como base; geração de colunas é extensão opcional.
 
 Fonte: [Aula04PM (1).pdf](../pdfs/Aula04PM%20%281%29.pdf), 51 páginas.
+

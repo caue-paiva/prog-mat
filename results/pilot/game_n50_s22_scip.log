@@ -1,0 +1,32 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 3775 upgd conss, 0 impls, 3822 clqs, 0 implints
+(round 2, exhaustive) 0 del vars, 816 del conss, 16 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 3775 upgd conss, 0 impls, 3886 clqs, 0 implints
+   (0.1s) probing: 360/816 (44.1%) - 0 fixings, 0 aggregations, 2792 implications, 0 bound changes
+   (0.1s) probing aborted: 50/50 successive totally useless probings
+   (0.1s) symmetry computation started: requiring (bin +, int +, cont +), (fixed: bin -, int -, cont -)
+   (0.1s) symmetry computation finished: 29 generators found (max: 1500, log10 of symmetry group size: inf) (symcode time: 0.00)
+dynamic symmetry handling statistics:
+   orbitopal reduction:       11 components: 16x3, 16x3, 16x3, 16x3, 16x3, 16x3, 16x3, 16x3, 16x3, 16x3, 16x5
+   orbital reduction:         no components
+   lexicographic reduction:    5 permutations with support sizes 32, 32, 32, 32, 32
+handled 16 out of 16 symmetry components
+presolving (3 rounds: 3 fast, 3 medium, 3 exhaustive):
+ 0 deleted vars, 816 deleted constraints, 16 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 0 implications, 6678 cliques, 0 implied integral variables (0 bin, 0 int, 0 cont)
+presolved problem has 816 variables (816 bin, 0 int, 0 cont) and 2975 constraints
+     16 constraints of type <knapsack>
+   2943 constraints of type <setppc>
+     16 constraints of type <and>
+transformed objective value is always integral (scale: 1)
+Presolving Time: 0.13
+
+ time | node  | left  |LP iter|LP it/n|mem/heur|mdpt |vars |cons |rows |cuts |sepa|confs|strbr|  dualbound   | primalbound  |  gap   | compl. 
+p 0.2s|     1 |     0 |     0 |     - |shiftand|   0 | 816 |3035 |2991 |   0 |  0 |  59 |   0 | 0.000000e+00 | 1.600000e+01 |    Inf | unknown
+  0.2s|     1 |     0 |   210 |     - |    27M |   0 | 816 |3035 |2991 |   0 |  0 |  59 |   0 | 1.600000e+01 | 1.600000e+01 |   0.00%| unknown
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.16
+Solving Nodes      : 1
+Primal Bound       : +1.60000000000000e+01 (1 solutions)
+Dual Bound         : +1.60000000000000e+01
+Gap                : 0.00 %

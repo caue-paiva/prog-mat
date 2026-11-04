@@ -35,3 +35,4 @@ Sete requisitos e cinco suítes. Coberturas: S1 `{R1,R3,R7}`, S2 `{R2,R4,R6}`, S
 Reaproveitar a disciplina de explicitar variáveis, unidades e domínios e auditar se todas as condições do texto são satisfeitas. Seleção, alocação fracionável, makespan e cobertura são objetivos/regras diferentes do BPP; não incorporar seus requisitos à entrega do projeto.
 
 Fonte: [Atividade.pdf](../pdfs/Atividade.pdf), 6 páginas.
+

@@ -34,3 +34,4 @@ Para `x∈{4,6,9,12,20,25}`, introduzir binárias `y_k`, impor `Σ_k y_k=1` e `x
 A variável de uso da caixa representa uma ativação. Regras de incompatibilidade, dependência ou escolha de capacidade só entram se existirem na aplicação. Preferir limites físicos derivados das capacidades ao Big-M sem justificativa. As formulações normalizadas e alertas são explicações para implementação, não cópias literais das imagens.
 
 Fonte: [Aula-ModelagemVarInteiras-01-Parte2.pdf](../pdfs/Aula-ModelagemVarInteiras-01-Parte2.pdf), 31 páginas.
+

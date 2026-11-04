@@ -33,3 +33,4 @@ A p. 21 propõe escala hospitalar: uma pessoa trabalha cinco dias consecutivos e
 Atribuir cada item uma única vez é uma condição de partição; capacidade é outra família de restrições. “Empacotamento de conjuntos” não é automaticamente o modelo de Bin Packing. Uma abordagem por padrões poderia tratar subconjuntos de itens factíveis como candidatos, mas não é exigida no projeto.
 
 Fonte: [Aula 08.pdf](../pdfs/Aula%2008.pdf), 22 páginas.
+

@@ -42,3 +42,4 @@ Na mochila didática, a tabela da p. 25 dá peso 75 ao primeiro objeto, mas a f�
 Para BPP (minimização), a direção do limite relaxado se inverte em relação à mochila de maximização: relaxação dá limite inferior. O modelo completo e adaptações propostas estão em `../../projeto/MODELO_MATEMATICO.md`.
 
 Fonte: [Aula 05.pdf](../pdfs/Aula%2005.pdf), 48 páginas.
+

@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/caue-paiva/prog-mat",
+  "commit": "a2943f1ea499052a24b09e428c8ccc51956a7124",
+  "inputs": {
+    "Archive.zip": "6d53fe6cf74fe9db5f418f0280768452b607b8a742e03acfb269ea7571ac64d1",
+    "Projeto_PM_BCC_2026(1).pdf": "4d66b7bc948c360204c1c3fed5d915c83c00917a2511034c8cc0e38bc8815ee5"
+  },
+  "note": "Textos do repositório obtidos no commit indicado; PDFs e notebook preservados dos anexos. Novas implementações e documentação identificadas no README."
+}

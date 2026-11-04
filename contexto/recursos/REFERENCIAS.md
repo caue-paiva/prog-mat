@@ -35,3 +35,4 @@ Leitura didática complementar: [Bin packing and cutting stock problems](https:/
 ## Aplicação das fontes
 
 As fontes dos solvers cobrem as APIs; Dósa fundamenta FFD clássico; as referências de conflitos e capacidades variadas posicionam a variante do jogo; OR-Library fornece benchmark clássico; Dolan e Moré ajudam na avaliação. Nenhuma dessas fontes prova regras do jogo fictício ou a qualidade da heurística adaptada. Essas partes dependem da definição explícita do grupo e dos experimentos.
+

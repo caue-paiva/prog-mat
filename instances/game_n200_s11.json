@@ -1,0 +1,1839 @@
+{
+  "instance_id": "game_n200_s11",
+  "categories": [
+    "madeira",
+    "pedra",
+    "metal",
+    "alimento",
+    "pocao",
+    "explosivo",
+    "combustivel"
+  ],
+  "unit": "UA",
+  "source": "synthetic",
+  "generator_version": 1,
+  "seed": 11,
+  "items": [
+    {
+      "id": "i000",
+      "size": 8,
+      "category": "combustivel"
+    },
+    {
+      "id": "i001",
+      "size": 9,
+      "category": "combustivel"
+    },
+    {
+      "id": "i002",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i003",
+      "size": 9,
+      "category": "combustivel"
+    },
+    {
+      "id": "i004",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i005",
+      "size": 9,
+      "category": "alimento"
+    },
+    {
+      "id": "i006",
+      "size": 3,
+      "category": "madeira"
+    },
+    {
+      "id": "i007",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i008",
+      "size": 3,
+      "category": "madeira"
+    },
+    {
+      "id": "i009",
+      "size": 9,
+      "category": "combustivel"
+    },
+    {
+      "id": "i010",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i011",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i012",
+      "size": 3,
+      "category": "pocao"
+    },
+    {
+      "id": "i013",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i014",
+      "size": 9,
+      "category": "madeira"
+    },
+    {
+      "id": "i015",
+      "size": 1,
+      "category": "madeira"
+    },
+    {
+      "id": "i016",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i017",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i018",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i019",
+      "size": 8,
+      "category": "pocao"
+    },
+    {
+      "id": "i020",
+      "size": 4,
+      "category": "pocao"
+    },
+    {
+      "id": "i021",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i022",
+      "size": 5,
+      "category": "alimento"
+    },
+    {
+      "id": "i023",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i024",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i025",
+      "size": 5,
+      "category": "alimento"
+    },
+    {
+      "id": "i026",
+      "size": 9,
+      "category": "combustivel"
+    },
+    {
+      "id": "i027",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i028",
+      "size": 5,
+      "category": "metal"
+    },
+    {
+      "id": "i029",
+      "size": 4,
+      "category": "pocao"
+    },
+    {
+      "id": "i030",
+      "size": 5,
+      "category": "madeira"
+    },
+    {
+      "id": "i031",
+      "size": 2,
+      "category": "pocao"
+    },
+    {
+      "id": "i032",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i033",
+      "size": 2,
+      "category": "combustivel"
+    },
+    {
+      "id": "i034",
+      "size": 5,
+      "category": "alimento"
+    },
+    {
+      "id": "i035",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i036",
+      "size": 1,
+      "category": "pedra"
+    },
+    {
+      "id": "i037",
+      "size": 4,
+      "category": "madeira"
+    },
+    {
+      "id": "i038",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i039",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i040",
+      "size": 2,
+      "category": "pocao"
+    },
+    {
+      "id": "i041",
+      "size": 4,
+      "category": "combustivel"
+    },
+    {
+      "id": "i042",
+      "size": 5,
+      "category": "metal"
+    },
+    {
+      "id": "i043",
+      "size": 2,
+      "category": "metal"
+    },
+    {
+      "id": "i044",
+      "size": 6,
+      "category": "madeira"
+    },
+    {
+      "id": "i045",
+      "size": 7,
+      "category": "combustivel"
+    },
+    {
+      "id": "i046",
+      "size": 2,
+      "category": "pedra"
+    },
+    {
+      "id": "i047",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i048",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i049",
+      "size": 1,
+      "category": "alimento"
+    },
+    {
+      "id": "i050",
+      "size": 8,
+      "category": "pedra"
+    },
+    {
+      "id": "i051",
+      "size": 9,
+      "category": "pedra"
+    },
+    {
+      "id": "i052",
+      "size": 8,
+      "category": "pocao"
+    },
+    {
+      "id": "i053",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i054",
+      "size": 3,
+      "category": "alimento"
+    },
+    {
+      "id": "i055",
+      "size": 7,
+      "category": "madeira"
+    },
+    {
+      "id": "i056",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i057",
+      "size": 4,
+      "category": "madeira"
+    },
+    {
+      "id": "i058",
+      "size": 5,
+      "category": "combustivel"
+    },
+    {
+      "id": "i059",
+      "size": 5,
+      "category": "madeira"
+    },
+    {
+      "id": "i060",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i061",
+      "size": 7,
+      "category": "combustivel"
+    },
+    {
+      "id": "i062",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i063",
+      "size": 3,
+      "category": "pedra"
+    },
+    {
+      "id": "i064",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i065",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i066",
+      "size": 6,
+      "category": "combustivel"
+    },
+    {
+      "id": "i067",
+      "size": 5,
+      "category": "alimento"
+    },
+    {
+      "id": "i068",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i069",
+      "size": 2,
+      "category": "pedra"
+    },
+    {
+      "id": "i070",
+      "size": 4,
+      "category": "madeira"
+    },
+    {
+      "id": "i071",
+      "size": 6,
+      "category": "metal"
+    },
+    {
+      "id": "i072",
+      "size": 8,
+      "category": "pedra"
+    },
+    {
+      "id": "i073",
+      "size": 8,
+      "category": "combustivel"
+    },
+    {
+      "id": "i074",
+      "size": 3,
+      "category": "combustivel"
+    },
+    {
+      "id": "i075",
+      "size": 7,
+      "category": "pedra"
+    },
+    {
+      "id": "i076",
+      "size": 3,
+      "category": "metal"
+    },
+    {
+      "id": "i077",
+      "size": 4,
+      "category": "combustivel"
+    },
+    {
+      "id": "i078",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i079",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i080",
+      "size": 9,
+      "category": "pedra"
+    },
+    {
+      "id": "i081",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i082",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i083",
+      "size": 1,
+      "category": "madeira"
+    },
+    {
+      "id": "i084",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i085",
+      "size": 9,
+      "category": "metal"
+    },
+    {
+      "id": "i086",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i087",
+      "size": 7,
+      "category": "metal"
+    },
+    {
+      "id": "i088",
+      "size": 7,
+      "category": "combustivel"
+    },
+    {
+      "id": "i089",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i090",
+      "size": 9,
+      "category": "pedra"
+    },
+    {
+      "id": "i091",
+      "size": 2,
+      "category": "pedra"
+    },
+    {
+      "id": "i092",
+      "size": 4,
+      "category": "alimento"
+    },
+    {
+      "id": "i093",
+      "size": 9,
+      "category": "explosivo"
+    },
+    {
+      "id": "i094",
+      "size": 2,
+      "category": "metal"
+    },
+    {
+      "id": "i095",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i096",
+      "size": 1,
+      "category": "madeira"
+    },
+    {
+      "id": "i097",
+      "size": 5,
+      "category": "alimento"
+    },
+    {
+      "id": "i098",
+      "size": 8,
+      "category": "pedra"
+    },
+    {
+      "id": "i099",
+      "size": 1,
+      "category": "madeira"
+    },
+    {
+      "id": "i100",
+      "size": 3,
+      "category": "metal"
+    },
+    {
+      "id": "i101",
+      "size": 6,
+      "category": "pocao"
+    },
+    {
+      "id": "i102",
+      "size": 3,
+      "category": "madeira"
+    },
+    {
+      "id": "i103",
+      "size": 6,
+      "category": "pedra"
+    },
+    {
+      "id": "i104",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i105",
+      "size": 9,
+      "category": "pocao"
+    },
+    {
+      "id": "i106",
+      "size": 3,
+      "category": "pocao"
+    },
+    {
+      "id": "i107",
+      "size": 1,
+      "category": "madeira"
+    },
+    {
+      "id": "i108",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i109",
+      "size": 5,
+      "category": "madeira"
+    },
+    {
+      "id": "i110",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i111",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i112",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i113",
+      "size": 5,
+      "category": "metal"
+    },
+    {
+      "id": "i114",
+      "size": 3,
+      "category": "madeira"
+    },
+    {
+      "id": "i115",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i116",
+      "size": 9,
+      "category": "metal"
+    },
+    {
+      "id": "i117",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i118",
+      "size": 3,
+      "category": "combustivel"
+    },
+    {
+      "id": "i119",
+      "size": 6,
+      "category": "metal"
+    },
+    {
+      "id": "i120",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i121",
+      "size": 8,
+      "category": "madeira"
+    },
+    {
+      "id": "i122",
+      "size": 7,
+      "category": "combustivel"
+    },
+    {
+      "id": "i123",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i124",
+      "size": 8,
+      "category": "pocao"
+    },
+    {
+      "id": "i125",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i126",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i127",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i128",
+      "size": 2,
+      "category": "madeira"
+    },
+    {
+      "id": "i129",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i130",
+      "size": 2,
+      "category": "metal"
+    },
+    {
+      "id": "i131",
+      "size": 7,
+      "category": "explosivo"
+    },
+    {
+      "id": "i132",
+      "size": 6,
+      "category": "alimento"
+    },
+    {
+      "id": "i133",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i134",
+      "size": 8,
+      "category": "combustivel"
+    },
+    {
+      "id": "i135",
+      "size": 9,
+      "category": "madeira"
+    },
+    {
+      "id": "i136",
+      "size": 9,
+      "category": "combustivel"
+    },
+    {
+      "id": "i137",
+      "size": 9,
+      "category": "madeira"
+    },
+    {
+      "id": "i138",
+      "size": 5,
+      "category": "pocao"
+    },
+    {
+      "id": "i139",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i140",
+      "size": 1,
+      "category": "pedra"
+    },
+    {
+      "id": "i141",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i142",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i143",
+      "size": 1,
+      "category": "metal"
+    },
+    {
+      "id": "i144",
+      "size": 5,
+      "category": "pedra"
+    },
+    {
+      "id": "i145",
+      "size": 4,
+      "category": "pocao"
+    },
+    {
+      "id": "i146",
+      "size": 3,
+      "category": "combustivel"
+    },
+    {
+      "id": "i147",
+      "size": 6,
+      "category": "explosivo"
+    },
+    {
+      "id": "i148",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i149",
+      "size": 4,
+      "category": "metal"
+    },
+    {
+      "id": "i150",
+      "size": 7,
+      "category": "explosivo"
+    },
+    {
+      "id": "i151",
+      "size": 5,
+      "category": "pedra"
+    },
+    {
+      "id": "i152",
+      "size": 7,
+      "category": "combustivel"
+    },
+    {
+      "id": "i153",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i154",
+      "size": 7,
+      "category": "pedra"
+    },
+    {
+      "id": "i155",
+      "size": 6,
+      "category": "pedra"
+    },
+    {
+      "id": "i156",
+      "size": 3,
+      "category": "pedra"
+    },
+    {
+      "id": "i157",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i158",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i159",
+      "size": 2,
+      "category": "metal"
+    },
+    {
+      "id": "i160",
+      "size": 3,
+      "category": "madeira"
+    },
+    {
+      "id": "i161",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i162",
+      "size": 5,
+      "category": "pedra"
+    },
+    {
+      "id": "i163",
+      "size": 7,
+      "category": "alimento"
+    },
+    {
+      "id": "i164",
+      "size": 9,
+      "category": "alimento"
+    },
+    {
+      "id": "i165",
+      "size": 6,
+      "category": "explosivo"
+    },
+    {
+      "id": "i166",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i167",
+      "size": 2,
+      "category": "combustivel"
+    },
+    {
+      "id": "i168",
+      "size": 1,
+      "category": "metal"
+    },
+    {
+      "id": "i169",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i170",
+      "size": 5,
+      "category": "pocao"
+    },
+    {
+      "id": "i171",
+      "size": 6,
+      "category": "metal"
+    },
+    {
+      "id": "i172",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i173",
+      "size": 3,
+      "category": "alimento"
+    },
+    {
+      "id": "i174",
+      "size": 8,
+      "category": "pedra"
+    },
+    {
+      "id": "i175",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i176",
+      "size": 5,
+      "category": "pedra"
+    },
+    {
+      "id": "i177",
+      "size": 3,
+      "category": "combustivel"
+    },
+    {
+      "id": "i178",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i179",
+      "size": 2,
+      "category": "alimento"
+    },
+    {
+      "id": "i180",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i181",
+      "size": 9,
+      "category": "explosivo"
+    },
+    {
+      "id": "i182",
+      "size": 6,
+      "category": "madeira"
+    },
+    {
+      "id": "i183",
+      "size": 4,
+      "category": "pedra"
+    },
+    {
+      "id": "i184",
+      "size": 8,
+      "category": "metal"
+    },
+    {
+      "id": "i185",
+      "size": 3,
+      "category": "explosivo"
+    },
+    {
+      "id": "i186",
+      "size": 1,
+      "category": "combustivel"
+    },
+    {
+      "id": "i187",
+      "size": 8,
+      "category": "pocao"
+    },
+    {
+      "id": "i188",
+      "size": 1,
+      "category": "pedra"
+    },
+    {
+      "id": "i189",
+      "size": 4,
+      "category": "metal"
+    },
+    {
+      "id": "i190",
+      "size": 6,
+      "category": "pocao"
+    },
+    {
+      "id": "i191",
+      "size": 9,
+      "category": "pocao"
+    },
+    {
+      "id": "i192",
+      "size": 3,
+      "category": "alimento"
+    },
+    {
+      "id": "i193",
+      "size": 4,
+      "category": "madeira"
+    },
+    {
+      "id": "i194",
+      "size": 7,
+      "category": "explosivo"
+    },
+    {
+      "id": "i195",
+      "size": 7,
+      "category": "pedra"
+    },
+    {
+      "id": "i196",
+      "size": 8,
+      "category": "alimento"
+    },
+    {
+      "id": "i197",
+      "size": 4,
+      "category": "explosivo"
+    },
+    {
+      "id": "i198",
+      "size": 1,
+      "category": "alimento"
+    },
+    {
+      "id": "i199",
+      "size": 9,
+      "category": "pocao"
+    }
+  ],
+  "chests": [
+    {
+      "id": "b000",
+      "capacity": 20
+    },
+    {
+      "id": "b001",
+      "capacity": 20
+    },
+    {
+      "id": "b002",
+      "capacity": 20
+    },
+    {
+      "id": "b003",
+      "capacity": 20
+    },
+    {
+      "id": "b004",
+      "capacity": 20
+    },
+    {
+      "id": "b005",
+      "capacity": 20
+    },
+    {
+      "id": "b006",
+      "capacity": 20
+    },
+    {
+      "id": "b007",
+      "capacity": 20
+    },
+    {
+      "id": "b008",
+      "capacity": 20
+    },
+    {
+      "id": "b009",
+      "capacity": 20
+    },
+    {
+      "id": "b010",
+      "capacity": 20
+    },
+    {
+      "id": "b011",
+      "capacity": 20
+    },
+    {
+      "id": "b012",
+      "capacity": 20
+    },
+    {
+      "id": "b013",
+      "capacity": 20
+    },
+    {
+      "id": "b014",
+      "capacity": 20
+    },
+    {
+      "id": "b015",
+      "capacity": 20
+    },
+    {
+      "id": "b016",
+      "capacity": 20
+    },
+    {
+      "id": "b017",
+      "capacity": 20
+    },
+    {
+      "id": "b018",
+      "capacity": 20
+    },
+    {
+      "id": "b019",
+      "capacity": 20
+    },
+    {
+      "id": "b020",
+      "capacity": 15
+    },
+    {
+      "id": "b021",
+      "capacity": 15
+    },
+    {
+      "id": "b022",
+      "capacity": 15
+    },
+    {
+      "id": "b023",
+      "capacity": 15
+    },
+    {
+      "id": "b024",
+      "capacity": 15
+    },
+    {
+      "id": "b025",
+      "capacity": 15
+    },
+    {
+      "id": "b026",
+      "capacity": 15
+    },
+    {
+      "id": "b027",
+      "capacity": 15
+    },
+    {
+      "id": "b028",
+      "capacity": 15
+    },
+    {
+      "id": "b029",
+      "capacity": 15
+    },
+    {
+      "id": "b030",
+      "capacity": 15
+    },
+    {
+      "id": "b031",
+      "capacity": 15
+    },
+    {
+      "id": "b032",
+      "capacity": 15
+    },
+    {
+      "id": "b033",
+      "capacity": 15
+    },
+    {
+      "id": "b034",
+      "capacity": 15
+    },
+    {
+      "id": "b035",
+      "capacity": 15
+    },
+    {
+      "id": "b036",
+      "capacity": 15
+    },
+    {
+      "id": "b037",
+      "capacity": 15
+    },
+    {
+      "id": "b038",
+      "capacity": 15
+    },
+    {
+      "id": "b039",
+      "capacity": 15
+    },
+    {
+      "id": "b040",
+      "capacity": 15
+    },
+    {
+      "id": "b041",
+      "capacity": 15
+    },
+    {
+      "id": "b042",
+      "capacity": 15
+    },
+    {
+      "id": "b043",
+      "capacity": 15
+    },
+    {
+      "id": "b044",
+      "capacity": 15
+    },
+    {
+      "id": "b045",
+      "capacity": 15
+    },
+    {
+      "id": "b046",
+      "capacity": 15
+    },
+    {
+      "id": "b047",
+      "capacity": 15
+    },
+    {
+      "id": "b048",
+      "capacity": 15
+    },
+    {
+      "id": "b049",
+      "capacity": 15
+    },
+    {
+      "id": "b050",
+      "capacity": 15
+    },
+    {
+      "id": "b051",
+      "capacity": 15
+    },
+    {
+      "id": "b052",
+      "capacity": 15
+    },
+    {
+      "id": "b053",
+      "capacity": 15
+    },
+    {
+      "id": "b054",
+      "capacity": 15
+    },
+    {
+      "id": "b055",
+      "capacity": 15
+    },
+    {
+      "id": "b056",
+      "capacity": 15
+    },
+    {
+      "id": "b057",
+      "capacity": 15
+    },
+    {
+      "id": "b058",
+      "capacity": 15
+    },
+    {
+      "id": "b059",
+      "capacity": 15
+    },
+    {
+      "id": "b060",
+      "capacity": 10
+    },
+    {
+      "id": "b061",
+      "capacity": 10
+    },
+    {
+      "id": "b062",
+      "capacity": 10
+    },
+    {
+      "id": "b063",
+      "capacity": 10
+    },
+    {
+      "id": "b064",
+      "capacity": 10
+    },
+    {
+      "id": "b065",
+      "capacity": 10
+    },
+    {
+      "id": "b066",
+      "capacity": 10
+    },
+    {
+      "id": "b067",
+      "capacity": 10
+    },
+    {
+      "id": "b068",
+      "capacity": 10
+    },
+    {
+      "id": "b069",
+      "capacity": 10
+    },
+    {
+      "id": "b070",
+      "capacity": 10
+    },
+    {
+      "id": "b071",
+      "capacity": 10
+    },
+    {
+      "id": "b072",
+      "capacity": 10
+    },
+    {
+      "id": "b073",
+      "capacity": 10
+    },
+    {
+      "id": "b074",
+      "capacity": 10
+    },
+    {
+      "id": "b075",
+      "capacity": 10
+    },
+    {
+      "id": "b076",
+      "capacity": 10
+    },
+    {
+      "id": "b077",
+      "capacity": 10
+    },
+    {
+      "id": "b078",
+      "capacity": 10
+    },
+    {
+      "id": "b079",
+      "capacity": 10
+    },
+    {
+      "id": "b080",
+      "capacity": 10
+    },
+    {
+      "id": "b081",
+      "capacity": 10
+    },
+    {
+      "id": "b082",
+      "capacity": 10
+    },
+    {
+      "id": "b083",
+      "capacity": 10
+    },
+    {
+      "id": "b084",
+      "capacity": 10
+    },
+    {
+      "id": "b085",
+      "capacity": 10
+    },
+    {
+      "id": "b086",
+      "capacity": 10
+    },
+    {
+      "id": "b087",
+      "capacity": 10
+    },
+    {
+      "id": "b088",
+      "capacity": 10
+    },
+    {
+      "id": "b089",
+      "capacity": 10
+    },
+    {
+      "id": "b090",
+      "capacity": 10
+    },
+    {
+      "id": "b091",
+      "capacity": 10
+    },
+    {
+      "id": "b092",
+      "capacity": 10
+    },
+    {
+      "id": "b093",
+      "capacity": 10
+    },
+    {
+      "id": "b094",
+      "capacity": 10
+    },
+    {
+      "id": "b095",
+      "capacity": 10
+    },
+    {
+      "id": "b096",
+      "capacity": 10
+    },
+    {
+      "id": "b097",
+      "capacity": 10
+    },
+    {
+      "id": "b098",
+      "capacity": 10
+    },
+    {
+      "id": "b099",
+      "capacity": 10
+    },
+    {
+      "id": "b100",
+      "capacity": 10
+    },
+    {
+      "id": "b101",
+      "capacity": 10
+    },
+    {
+      "id": "b102",
+      "capacity": 10
+    },
+    {
+      "id": "b103",
+      "capacity": 10
+    },
+    {
+      "id": "b104",
+      "capacity": 10
+    },
+    {
+      "id": "b105",
+      "capacity": 10
+    },
+    {
+      "id": "b106",
+      "capacity": 10
+    },
+    {
+      "id": "b107",
+      "capacity": 10
+    },
+    {
+      "id": "b108",
+      "capacity": 10
+    },
+    {
+      "id": "b109",
+      "capacity": 10
+    },
+    {
+      "id": "b110",
+      "capacity": 10
+    },
+    {
+      "id": "b111",
+      "capacity": 10
+    },
+    {
+      "id": "b112",
+      "capacity": 10
+    },
+    {
+      "id": "b113",
+      "capacity": 10
+    },
+    {
+      "id": "b114",
+      "capacity": 10
+    },
+    {
+      "id": "b115",
+      "capacity": 10
+    },
+    {
+      "id": "b116",
+      "capacity": 10
+    },
+    {
+      "id": "b117",
+      "capacity": 10
+    },
+    {
+      "id": "b118",
+      "capacity": 10
+    },
+    {
+      "id": "b119",
+      "capacity": 10
+    },
+    {
+      "id": "b120",
+      "capacity": 10
+    },
+    {
+      "id": "b121",
+      "capacity": 10
+    },
+    {
+      "id": "b122",
+      "capacity": 10
+    },
+    {
+      "id": "b123",
+      "capacity": 10
+    },
+    {
+      "id": "b124",
+      "capacity": 10
+    },
+    {
+      "id": "b125",
+      "capacity": 10
+    },
+    {
+      "id": "b126",
+      "capacity": 10
+    },
+    {
+      "id": "b127",
+      "capacity": 10
+    },
+    {
+      "id": "b128",
+      "capacity": 10
+    },
+    {
+      "id": "b129",
+      "capacity": 10
+    },
+    {
+      "id": "b130",
+      "capacity": 10
+    },
+    {
+      "id": "b131",
+      "capacity": 10
+    },
+    {
+      "id": "b132",
+      "capacity": 10
+    },
+    {
+      "id": "b133",
+      "capacity": 10
+    },
+    {
+      "id": "b134",
+      "capacity": 10
+    },
+    {
+      "id": "b135",
+      "capacity": 10
+    },
+    {
+      "id": "b136",
+      "capacity": 10
+    },
+    {
+      "id": "b137",
+      "capacity": 10
+    },
+    {
+      "id": "b138",
+      "capacity": 10
+    },
+    {
+      "id": "b139",
+      "capacity": 10
+    },
+    {
+      "id": "b140",
+      "capacity": 10
+    },
+    {
+      "id": "b141",
+      "capacity": 10
+    },
+    {
+      "id": "b142",
+      "capacity": 10
+    },
+    {
+      "id": "b143",
+      "capacity": 10
+    },
+    {
+      "id": "b144",
+      "capacity": 10
+    },
+    {
+      "id": "b145",
+      "capacity": 10
+    },
+    {
+      "id": "b146",
+      "capacity": 10
+    },
+    {
+      "id": "b147",
+      "capacity": 10
+    },
+    {
+      "id": "b148",
+      "capacity": 10
+    },
+    {
+      "id": "b149",
+      "capacity": 10
+    },
+    {
+      "id": "b150",
+      "capacity": 10
+    },
+    {
+      "id": "b151",
+      "capacity": 10
+    },
+    {
+      "id": "b152",
+      "capacity": 10
+    },
+    {
+      "id": "b153",
+      "capacity": 10
+    },
+    {
+      "id": "b154",
+      "capacity": 10
+    },
+    {
+      "id": "b155",
+      "capacity": 10
+    },
+    {
+      "id": "b156",
+      "capacity": 10
+    },
+    {
+      "id": "b157",
+      "capacity": 10
+    },
+    {
+      "id": "b158",
+      "capacity": 10
+    },
+    {
+      "id": "b159",
+      "capacity": 10
+    },
+    {
+      "id": "b160",
+      "capacity": 10
+    },
+    {
+      "id": "b161",
+      "capacity": 10
+    },
+    {
+      "id": "b162",
+      "capacity": 10
+    },
+    {
+      "id": "b163",
+      "capacity": 10
+    },
+    {
+      "id": "b164",
+      "capacity": 10
+    },
+    {
+      "id": "b165",
+      "capacity": 10
+    },
+    {
+      "id": "b166",
+      "capacity": 10
+    },
+    {
+      "id": "b167",
+      "capacity": 10
+    },
+    {
+      "id": "b168",
+      "capacity": 10
+    },
+    {
+      "id": "b169",
+      "capacity": 10
+    },
+    {
+      "id": "b170",
+      "capacity": 10
+    },
+    {
+      "id": "b171",
+      "capacity": 10
+    },
+    {
+      "id": "b172",
+      "capacity": 10
+    },
+    {
+      "id": "b173",
+      "capacity": 10
+    },
+    {
+      "id": "b174",
+      "capacity": 10
+    },
+    {
+      "id": "b175",
+      "capacity": 10
+    },
+    {
+      "id": "b176",
+      "capacity": 10
+    },
+    {
+      "id": "b177",
+      "capacity": 10
+    },
+    {
+      "id": "b178",
+      "capacity": 10
+    },
+    {
+      "id": "b179",
+      "capacity": 10
+    },
+    {
+      "id": "b180",
+      "capacity": 10
+    },
+    {
+      "id": "b181",
+      "capacity": 10
+    },
+    {
+      "id": "b182",
+      "capacity": 10
+    },
+    {
+      "id": "b183",
+      "capacity": 10
+    },
+    {
+      "id": "b184",
+      "capacity": 10
+    },
+    {
+      "id": "b185",
+      "capacity": 10
+    },
+    {
+      "id": "b186",
+      "capacity": 10
+    },
+    {
+      "id": "b187",
+      "capacity": 10
+    },
+    {
+      "id": "b188",
+      "capacity": 10
+    },
+    {
+      "id": "b189",
+      "capacity": 10
+    },
+    {
+      "id": "b190",
+      "capacity": 10
+    },
+    {
+      "id": "b191",
+      "capacity": 10
+    },
+    {
+      "id": "b192",
+      "capacity": 10
+    },
+    {
+      "id": "b193",
+      "capacity": 10
+    },
+    {
+      "id": "b194",
+      "capacity": 10
+    },
+    {
+      "id": "b195",
+      "capacity": 10
+    },
+    {
+      "id": "b196",
+      "capacity": 10
+    },
+    {
+      "id": "b197",
+      "capacity": 10
+    },
+    {
+      "id": "b198",
+      "capacity": 10
+    },
+    {
+      "id": "b199",
+      "capacity": 10
+    }
+  ],
+  "incompatible_categories": [
+    [
+      "alimento",
+      "explosivo"
+    ],
+    [
+      "alimento",
+      "combustivel"
+    ],
+    [
+      "pocao",
+      "explosivo"
+    ],
+    [
+      "pocao",
+      "combustivel"
+    ]
+  ],
+  "conflicts": []
+}

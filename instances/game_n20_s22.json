@@ -1,0 +1,219 @@
+{
+  "instance_id": "game_n20_s22",
+  "categories": [
+    "madeira",
+    "pedra",
+    "metal",
+    "alimento",
+    "pocao",
+    "explosivo",
+    "combustivel"
+  ],
+  "unit": "UA",
+  "source": "synthetic",
+  "generator_version": 1,
+  "seed": 22,
+  "items": [
+    {
+      "id": "i000",
+      "size": 3,
+      "category": "pedra"
+    },
+    {
+      "id": "i001",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i002",
+      "size": 8,
+      "category": "pedra"
+    },
+    {
+      "id": "i003",
+      "size": 2,
+      "category": "explosivo"
+    },
+    {
+      "id": "i004",
+      "size": 6,
+      "category": "combustivel"
+    },
+    {
+      "id": "i005",
+      "size": 2,
+      "category": "pedra"
+    },
+    {
+      "id": "i006",
+      "size": 5,
+      "category": "madeira"
+    },
+    {
+      "id": "i007",
+      "size": 6,
+      "category": "pocao"
+    },
+    {
+      "id": "i008",
+      "size": 3,
+      "category": "pocao"
+    },
+    {
+      "id": "i009",
+      "size": 7,
+      "category": "explosivo"
+    },
+    {
+      "id": "i010",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i011",
+      "size": 1,
+      "category": "pocao"
+    },
+    {
+      "id": "i012",
+      "size": 5,
+      "category": "metal"
+    },
+    {
+      "id": "i013",
+      "size": 7,
+      "category": "pedra"
+    },
+    {
+      "id": "i014",
+      "size": 3,
+      "category": "combustivel"
+    },
+    {
+      "id": "i015",
+      "size": 2,
+      "category": "pocao"
+    },
+    {
+      "id": "i016",
+      "size": 9,
+      "category": "explosivo"
+    },
+    {
+      "id": "i017",
+      "size": 1,
+      "category": "explosivo"
+    },
+    {
+      "id": "i018",
+      "size": 6,
+      "category": "pocao"
+    },
+    {
+      "id": "i019",
+      "size": 6,
+      "category": "metal"
+    }
+  ],
+  "chests": [
+    {
+      "id": "b000",
+      "capacity": 20
+    },
+    {
+      "id": "b001",
+      "capacity": 20
+    },
+    {
+      "id": "b002",
+      "capacity": 15
+    },
+    {
+      "id": "b003",
+      "capacity": 15
+    },
+    {
+      "id": "b004",
+      "capacity": 15
+    },
+    {
+      "id": "b005",
+      "capacity": 15
+    },
+    {
+      "id": "b006",
+      "capacity": 10
+    },
+    {
+      "id": "b007",
+      "capacity": 10
+    },
+    {
+      "id": "b008",
+      "capacity": 10
+    },
+    {
+      "id": "b009",
+      "capacity": 10
+    },
+    {
+      "id": "b010",
+      "capacity": 10
+    },
+    {
+      "id": "b011",
+      "capacity": 10
+    },
+    {
+      "id": "b012",
+      "capacity": 10
+    },
+    {
+      "id": "b013",
+      "capacity": 10
+    },
+    {
+      "id": "b014",
+      "capacity": 10
+    },
+    {
+      "id": "b015",
+      "capacity": 10
+    },
+    {
+      "id": "b016",
+      "capacity": 10
+    },
+    {
+      "id": "b017",
+      "capacity": 10
+    },
+    {
+      "id": "b018",
+      "capacity": 10
+    },
+    {
+      "id": "b019",
+      "capacity": 10
+    }
+  ],
+  "incompatible_categories": [
+    [
+      "alimento",
+      "explosivo"
+    ],
+    [
+      "alimento",
+      "combustivel"
+    ],
+    [
+      "pocao",
+      "explosivo"
+    ],
+    [
+      "pocao",
+      "combustivel"
+    ]
+  ],
+  "conflicts": []
+}

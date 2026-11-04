@@ -23,3 +23,4 @@ Reforça a distinção entre ótimo, infactível e ilimitado no contexto de PL. 
 Não substitui a heurística obrigatória nem justifica incluir artificiais manualmente no modelo enviado aos solvers: deixar o processamento interno a Gurobi/SCIP.
 
 Fonte: [BaseInicialSimplex.pdf](../pdfs/BaseInicialSimplex.pdf), 39 páginas.
+

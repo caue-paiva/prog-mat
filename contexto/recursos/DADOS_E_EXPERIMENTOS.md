@@ -49,3 +49,4 @@ Uma linha por instância, método e repetição: ID/hash, tamanho, inventário, 
 Apresentar tabelas por tamanho e cenário: quantidade de soluções completas, ótimos certificados, medianas/variação do tempo e qualidade. Separar limites de tempo, erros de ambiente e falhas de heurística. Não excluir instâncias difíceis para melhorar médias.
 
 Como análise opcional para muitos casos, Dolan e Moré apresentam **perfis de desempenho**: razão entre o tempo de um método e o melhor tempo por instância, agregada numa distribuição. Consultar o [artigo dos autores](https://arxiv.org/html/cs/0102001) e a [publicação de 2002](https://doi.org/10.1007/s101070100263). Só comparar tempos para a mesma tarefa/critério de sucesso: “achar qualquer solução” e “provar ótimo” são objetivos distintos. Os perfis não são obrigatórios; tabelas e gráficos de qualidade versus tempo podem bastar para este trabalho.
+

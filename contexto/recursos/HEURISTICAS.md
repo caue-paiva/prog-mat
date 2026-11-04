@@ -72,3 +72,4 @@ Uma busca direta que varre todos os itens de cada baú para cada tentativa pode 
 Com inventário limitado, uma decisão gulosa pode consumir um recurso necessário adiante. Registrar solução parcial separadamente; ela não dá UB para o objetivo de armazenar todos os itens. Se for implementado reparo, explicitar movimentos, limite de esforço e tempo incluído. Não comparar uma heurística com inventário ilimitado contra solvers com inventário finito.
 
 Referência conceitual para essa extensão: [Algorithms for the Bin Packing Problem with Conflicts](https://pubsonline.informs.org/doi/10.1287/ijoc.1090.0355). A proposta acima continua sendo uma adaptação do grupo a validar experimentalmente.
+

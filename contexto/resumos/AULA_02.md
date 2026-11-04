@@ -38,3 +38,4 @@ A resolução gráfica dos exemplos apresenta interseção de semiplanos, regiã
 No exemplo da padaria, o texto da p. 45 informa 38 unidades de fermento, mas tabela/modelo das pp. 46 e 48 usam 30. Não transportar esses números sem resolver a inconsistência. Para Bin Packing, itens são indivisíveis e a alocação deve ser binária: a divisibilidade da PL não representa a solução final. Manter unidades compatíveis e não inventar restrições apenas para ajustar resultados.
 
 Fonte: [Aula02PM (1).pdf](../pdfs/Aula02PM%20%281%29.pdf), 70 páginas.
+

@@ -27,3 +27,4 @@ As pp. 19–29 revisam disjunções e Big-M. Essa parte se sobrepõe ao material
 Não apresenta FFD/BFD, meta-heurística implementável para BPP, APIs Gurobi/SCIP ou protocolo experimental. Deve ficar como leitura complementar, principalmente se a variante escolhida realmente tiver restrições temporais.
 
 Fonte: [PI_Scheduling.pdf](../pdfs/PI_Scheduling.pdf), 37 páginas.
+

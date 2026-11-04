@@ -23,3 +23,4 @@ As condições de sinal dependem de minimização, forma padrão e convenção d
 Ajuda a entender como se certifica a solução de uma relaxação linear e por que valor factível e prova de ótimo são coisas diferentes. Não fornece solução inteira do BPP, branch-and-bound completo, cálculo de gap MIP nem código Gurobi/SCIP. Para cumprir o projeto, usar os solvers exigidos e manter a heurística de empacotamento como implementação distinta.
 
 Fonte: [Aula13PM.pdf](../pdfs/Aula13PM.pdf), 50 páginas.
+

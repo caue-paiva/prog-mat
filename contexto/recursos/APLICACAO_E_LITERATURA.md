@@ -29,3 +29,4 @@ Não afirmar que as restrições representam toxicidade, segurança, empilhament
 ## Delimitação proposta
 
 Uma dimensão de consumo por item; pares incompatíveis simétricos; lista finita de baús candidatos; todos os itens armazenados; objetivo `min Σ_j y_j`. Não incluir geometria, descarte de recursos, valor de relíquias, roteamento, crafting ou evolução temporal sem nova decisão. Para leitura conceitual adicional do modelo compacto, consultar o [capítulo aberto de BPP](https://scipbook.readthedocs.io/en/latest/bpp.html).
+

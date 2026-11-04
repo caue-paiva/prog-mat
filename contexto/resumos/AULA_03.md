@@ -30,3 +30,4 @@ Adicionar depósitos intermediários entre fábricas e mercados. Definir variáv
 A igualdade que atribui cada tarefa exatamente uma vez inspira `Σ_j x_ij=1` no BPP. A diferença é que uma caixa pode receber vários itens, sob capacidade ponderada; não impor “uma caixa recebe exatamente um item”. Transporte permite dividir quantidades; BPP base não permite fracionar um item. O custo de ativar caixas também precisa ser modelado.
 
 Fonte: [Aula03PM (1).pdf](../pdfs/Aula03PM%20%281%29.pdf), 30 páginas.
+

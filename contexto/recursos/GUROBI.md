@@ -53,3 +53,4 @@ Casos mínimos propostos: C=10 e pesos `[6,4,5,5]` têm ótimo 2; `[6,6,6]` têm
 ## Ajustes obrigatórios para o tema do grupo
 
 O esboço acima usa caixas uniformes apenas como introdução. Na implementação final, definir `J=range(len(chests))`, manter `I=range(len(w))`, usar `capacity[j] * y[j]` no lado direito e acrescentar, para cada par de índices `{i,h}` incompatível e j, `model.addConstr(x[i,j] + x[h,j] <= 1)`. Reforços `x[i,j]<=y[j]` são opcionais, mas devem ser iguais nos dois solvers. Definir o inventário em dados; não gerar automaticamente apenas baús grandes em lugar da política escolhida. Ver a formulação completa no [tema](../../projeto/TEMA_DO_GRUPO.md).
+

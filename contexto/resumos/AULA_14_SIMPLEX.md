@@ -28,3 +28,4 @@ Apresenta Fase II, inicialização simples por colunas de folga quando possível
 Aprofunda a resolução de PLs e o significado de melhoria e ilimitabilidade. Não é método alternativo de empacotamento: aplicar Simplex ao relaxamento do BPP pode gerar atribuições fracionárias. Não há especificação de FFD/BFD, protocolo comparativo ou uso das interfaces de Gurobi/SCIP.
 
 Fonte: [Aula14SimplexDeterminandoSolucaoMelhor.pdf](../pdfs/Aula14SimplexDeterminandoSolucaoMelhor.pdf), 41 páginas.
+

@@ -21,3 +21,4 @@ Ler também os [requisitos oficiais](../../enunciado/REQUISITOS.md) e o [modelo 
 As fontes fornecem base para os gaps de documentação e literatura. Continuam pendentes detalhes da aplicação (inventário, unidades e matriz de conflitos), alinhamento do cenário fictício à exigência de aplicação real, disponibilidade efetiva dos solvers, implementação e resultados dos experimentos. Nenhum solver foi instalado ou executado nesta pesquisa; os exemplos Markdown são esboços próprios e precisam de validação na implementação.
 
 Links `current`, `stable` e `latest` podem mudar. Fixar versões de bibliotecas e registrar versões dos solvers na primeira execução reproduzível. Artigos com acesso restrito foram usados apenas nos limites dos resumos e metadados públicos; a leitura integral não é presumida. Não é necessário adquirir material pago para implementar o caminho mínimo descrito.
+

@@ -44,3 +44,4 @@ Síntese matemática para o agente: em minimização, um empacotamento completo 
 Para comparar a heurística H: com ótimo conhecido O>0, usar `100·(H−O)/O`; sem O, uma distância a LB positivo não é erro ótimo medido. Só comparar valores da mesma instância, inventário e regras de incompatibilidade.
 
 Para o tema heterogêneo, `ceil(Σ_i w_i/max_j C_j)` é um limite inferior simples, geralmente fraco. `Σ_j C_j≥Σ_i w_i` não garante factibilidade, pois os itens são indivisíveis e podem ser incompatíveis. A escolha de limites mais fortes pode ser uma extensão futura, não pré-requisito da primeira implementação.
+

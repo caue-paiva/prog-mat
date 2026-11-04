@@ -53,3 +53,4 @@ O [exemplo avançado de Bin Packing do SCIP](https://www.scipopt.org/scip/doc/ht
 ## Ajustes obrigatórios para o tema do grupo
 
 No esboço didático, substituir `J=range(n)` por índices do inventário finito e a capacidade uniforme C por `capacity[j]`. Para cada par incompatível `{i,h}` e j, adicionar `model.addCons(x[i,j] + x[h,j] <= 1)`. Usar exatamente a mesma lista de baús e conflitos do modelo Gurobi e da heurística. Não aplicar quebra de simetria entre baús de capacidades diferentes. A definição de regras está no [tema](../../projeto/TEMA_DO_GRUPO.md).
+

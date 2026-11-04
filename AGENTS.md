@@ -27,3 +27,4 @@ Pendências: inventário finito/disponibilidade por capacidade de baú, unidades
 Preservar os PDFs. Manter rastreabilidade entre requisitos e entregas. Não inventar referências, resultados, tempos, ótima solução ou execuções de solvers. Registrar ausência de licença/dependência como indisponibilidade, sem substituir silenciosamente os solvers obrigatórios. Verificar a documentação oficial das APIs quando começar a implementação.
 
 Validar alocação, capacidade, uso de caixas e valor objetivo independentemente do solver. Não chamar uma solução de ótima apenas porque foi produzida por um método exato: exigir prova/status apropriado ou igualdade entre limites válidos. Não comparar apenas os rótulos das caixas, pois soluções equivalentes podem permutá-los. Separar requisitos oficiais, decisões do grupo e melhorias opcionais. Usar as mesmas instâncias e condições experimentais documentadas nos métodos comparados.
+

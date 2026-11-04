@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "survival-packing"
+version = "1.0.0"
+description = "Bin packing heterogeneo com conflitos - SME0110"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+solvers = ["pyscipopt==6.3.0", "gurobipy==13.0.3"]
+test = ["pytest==9.2.0"]
+report = ["reportlab>=4,<5"]
+
+[project.scripts]
+survival-packing = "survival_packing.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

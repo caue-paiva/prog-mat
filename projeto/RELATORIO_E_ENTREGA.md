@@ -40,3 +40,4 @@ Sintetizar achados sustentados pelos experimentos, benefícios à aplicação, l
 ## Recomendações de reprodutibilidade
 
 Incluir instruções de instalação/execução, dependências/versões, configurações, sementes e resultados brutos. Conferir a execução a partir de uma extração limpa do pacote. Não incluir chaves de licença, ambientes virtuais ou arquivos locais desnecessários. Confirmar datas e formato das apresentações no canal da disciplina, pois não constam no PDF.
+

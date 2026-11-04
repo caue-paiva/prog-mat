@@ -81,3 +81,4 @@ Para minimização: `LB ≤ OPT ≤ UB`, com UB de solução factível. Limite g
 Para heurística com H caixas e ótimo conhecido O positivo: excesso relativo `100·(H−O)/O`. Se houver apenas LB positivo: `100·(H−LB)/LB` é distância ao limite, não erro ótimo conhecido. Se não houver limite válido/solução, usar `null` e explicar. Tratar instância vazia sem divisão por zero.
 
 Uma heurística alcançar um limite inferior válido prova a otimalidade do valor nessa instância, mesmo sem um solver encerrar. Isso não constitui prova geral de que a heurística é exata.
+

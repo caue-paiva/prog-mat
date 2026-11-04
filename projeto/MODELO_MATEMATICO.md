@@ -50,3 +50,4 @@ Não usar um Big-M arbitrário: `C` já é o limite físico da restrição de ca
 **Questões de prova:** fixar altura útil após margens/cabeçalhos; tratar cada questão como indivisível apenas se essa for a regra acordada. Minimizar páginas com soma de alturas não assegura legibilidade, ordem original ou penalidade por fragmentação: explicitar tais condições quando exigidas.
 
 O usuário escolheu capacidades heterogêneas e incompatibilidades, conforme o documento do tema. As demais extensões continuam opcionais e não devem ser acrescentadas por padrão.
+

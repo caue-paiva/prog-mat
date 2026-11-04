@@ -1,0 +1,32 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 33050 upgd conss, 0 impls, 33210 clqs, 0 implints
+(round 2, exhaustive) 0 del vars, 3131 del conss, 31 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 33050 upgd conss, 0 impls, 33395 clqs, 0 implints
+   (1.6s) probing: 729/3131 (23.3%) - 0 fixings, 0 aggregations, 23707 implications, 0 bound changes
+   (1.6s) probing aborted: 50/50 successive totally useless probings
+   (1.6s) symmetry computation started: requiring (bin +, int +, cont +), (fixed: bin -, int -, cont -)
+   (1.6s) symmetry computation finished: 73 generators found (max: 1500, log10 of symmetry group size: inf) (symcode time: 0.04)
+dynamic symmetry handling statistics:
+   orbitopal reduction:       14 components: 31x4, 31x4, 31x8, 31x5, 31x3, 31x4, 31x4, 31x3, 31x6, 31x4, 31x4, 31x3, 31x3, 31x3
+   orbital reduction:          5 components of sizes 6, 28, 10, 6, 28
+   lexicographic reduction:   83 permutations with support sizes 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62, 62
+handled 24 out of 24 symmetry components
+presolving (3 rounds: 3 fast, 3 medium, 3 exhaustive):
+ 0 deleted vars, 3131 deleted constraints, 31 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 0 implications, 57102 cliques, 0 implied integral variables (0 bin, 0 int, 0 cont)
+presolved problem has 3131 variables (3131 bin, 0 int, 0 cont) and 29950 constraints
+     31 constraints of type <knapsack>
+  29888 constraints of type <setppc>
+     31 constraints of type <and>
+transformed objective value is always integral (scale: 1)
+Presolving Time: 1.66
+
+ time | node  | left  |LP iter|LP it/n|mem/heur|mdpt |vars |cons |rows |cuts |sepa|confs|strbr|  dualbound   | primalbound  |  gap   | compl. 
+p 2.0s|     1 |     0 |     0 |     - | vbounds|   0 |3131 |  30k|  29k|   0 |  0 |  64 |   0 | 0.000000e+00 | 3.100000e+01 |    Inf | unknown
+  2.6s|     1 |     0 |  4965 |     - |   133M |   0 |3131 |  30k|  29k|   0 |  0 |  64 |   0 | 3.100000e+01 | 3.100000e+01 |   0.00%| unknown
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2.57
+Solving Nodes      : 1
+Primal Bound       : +3.10000000000000e+01 (1 solutions)
+Dual Bound         : +3.10000000000000e+01
+Gap                : 0.00 %

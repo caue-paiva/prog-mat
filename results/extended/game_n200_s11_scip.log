@@ -1,0 +1,34 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 187364 upgd conss, 0 impls, 188008 clqs, 0 implints
+(round 2, exhaustive) 0 del vars, 11658 del conss, 58 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 187364 upgd conss, 0 impls, 188046 clqs, 0 implints
+   (19.2s) probing: 1000/11658 (8.6%) - 0 fixings, 0 aggregations, 169153 implications, 0 bound changes
+   (19.2s) probing: 1001/11658 (8.6%) - 0 fixings, 0 aggregations, 169154 implications, 0 bound changes
+   (19.2s) probing aborted: 1000/1000 successive useless probings
+   (19.2s) symmetry computation started: requiring (bin +, int +, cont +), (fixed: bin -, int -, cont -)
+   (19.9s) symmetry computation finished: 173 generators found (max: 1500, log10 of symmetry group size: inf) (symcode time: 0.52)
+dynamic symmetry handling statistics:
+   orbitopal reduction:       17 components: 58x3, 58x7, 58x10, 58x5, 58x6, 58x6, 58x5, 58x12, 58x4, 58x8, 58x7, 58x10, 58x7, 58x8, 58x3, 58x5, 58x3
+   orbital reduction:          9 components of sizes 78, 36, 105, 28, 45, 45, 78, 21, 10
+   lexicographic reduction:  446 permutations with support sizes 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116
+handled 26 out of 26 symmetry components
+presolving (3 rounds: 3 fast, 3 medium, 3 exhaustive):
+ 0 deleted vars, 11658 deleted constraints, 58 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 0 implications, 357200 cliques, 0 implied integral variables (0 bin, 0 int, 0 cont)
+presolved problem has 11658 variables (11658 bin, 0 int, 0 cont) and 175764 constraints
+     58 constraints of type <knapsack>
+ 175648 constraints of type <setppc>
+     58 constraints of type <and>
+transformed objective value is always integral (scale: 1)
+Presolving Time: 20.18
+
+ time | node  | left  |LP iter|LP it/n|mem/heur|mdpt |vars |cons |rows |cuts |sepa|confs|strbr|  dualbound   | primalbound  |  gap   | compl. 
+p22.5s|     1 |     0 |     0 |     - |   locks|   0 |  11k| 175k| 175k|   0 |  0 |   0 |   0 | 0.000000e+00 | 5.800000e+01 |    Inf | unknown
+p23.1s|     1 |     0 |     0 |     - | vbounds|   0 |  11k| 175k| 175k|   0 |  0 |  43 |   0 | 0.000000e+00 | 5.700000e+01 |    Inf | unknown
+ 34.3s|     1 |     0 | 13989 |     - |   599M |   0 |  11k| 175k| 175k|   0 |  0 |  43 |   0 | 5.700000e+01 | 5.700000e+01 |   0.00%| unknown
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 34.26
+Solving Nodes      : 1
+Primal Bound       : +5.70000000000000e+01 (2 solutions)
+Dual Bound         : +5.70000000000000e+01
+Gap                : 0.00 %

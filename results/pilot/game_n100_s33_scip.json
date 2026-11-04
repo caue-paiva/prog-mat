@@ -1,0 +1,314 @@
+{
+  "instance_id": "game_n100_s33",
+  "method": "scip",
+  "status": "optimal",
+  "raw_status": "optimal",
+  "objective": 31,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i002",
+        "i003",
+        "i021",
+        "i035",
+        "i079"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i000",
+        "i001",
+        "i004",
+        "i011",
+        "i012",
+        "i018"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i006",
+        "i010",
+        "i054"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i025",
+        "i026",
+        "i039",
+        "i086"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i041",
+        "i042",
+        "i043"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i016",
+        "i045",
+        "i052",
+        "i055",
+        "i075",
+        "i094"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i023",
+        "i056",
+        "i057",
+        "i058"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i059",
+        "i064",
+        "i065",
+        "i072"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b008",
+      "items": [
+        "i068",
+        "i080",
+        "i082",
+        "i084"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b009",
+      "items": [
+        "i008",
+        "i013",
+        "i028",
+        "i095",
+        "i099"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b010",
+      "items": [
+        "i014",
+        "i020"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b011",
+      "items": [
+        "i024",
+        "i027",
+        "i033",
+        "i060"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b012",
+      "items": [
+        "i029",
+        "i030"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b013",
+      "items": [
+        "i037",
+        "i038",
+        "i046"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b014",
+      "items": [
+        "i040",
+        "i051",
+        "i085"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b015",
+      "items": [
+        "i031",
+        "i049",
+        "i066",
+        "i093"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b016",
+      "items": [
+        "i050",
+        "i067",
+        "i083"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b017",
+      "items": [
+        "i032",
+        "i069",
+        "i070"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b018",
+      "items": [
+        "i015",
+        "i044",
+        "i074",
+        "i087"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b019",
+      "items": [
+        "i061",
+        "i091"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b020",
+      "items": [
+        "i007",
+        "i009"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b021",
+      "items": [
+        "i017",
+        "i053",
+        "i063"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b022",
+      "items": [
+        "i019",
+        "i071"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b023",
+      "items": [
+        "i022",
+        "i073",
+        "i076"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b024",
+      "items": [
+        "i034",
+        "i088"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b025",
+      "items": [
+        "i036",
+        "i097"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b026",
+      "items": [
+        "i047",
+        "i048",
+        "i077"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b027",
+      "items": [
+        "i062",
+        "i078",
+        "i081"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b028",
+      "items": [
+        "i089",
+        "i090",
+        "i092"
+      ],
+      "load": 13
+    },
+    {
+      "chest_id": "b029",
+      "items": [
+        "i096",
+        "i098"
+      ],
+      "load": 12
+    },
+    {
+      "chest_id": "b030",
+      "items": [
+        "i005"
+      ],
+      "load": 9
+    }
+  ],
+  "lower_bound": 31.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.2025294090000216,
+  "optimization_seconds": 2.5704279999999997,
+  "total_seconds": 2.7786906640000097,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "PySCIPOpt 6.3.0; SCIP 10.0.2",
+  "candidate_chests": 31,
+  "n": 100,
+  "input_sha256": "be6d9e66117c0bc7bca8df7a61259dffcb7b8ed523d83754a2be245a2039c939"
+}

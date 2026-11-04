@@ -1,0 +1,96 @@
+{
+  "instance_id": "game_n20_s11",
+  "method": "gurobi",
+  "status": "optimal",
+  "raw_status": 2,
+  "objective": 8,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i016",
+        "i018",
+        "i019"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i009",
+        "i014"
+      ],
+      "load": 18
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i007",
+        "i011"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i005",
+        "i010",
+        "i012"
+      ],
+      "load": 13
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i003",
+        "i008"
+      ],
+      "load": 12
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i002",
+        "i004",
+        "i006"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i001",
+        "i017"
+      ],
+      "load": 10
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i000",
+        "i013",
+        "i015"
+      ],
+      "load": 10
+    }
+  ],
+  "lower_bound": 8.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.006283636000034676,
+  "optimization_seconds": 0.00624394416809082,
+  "total_seconds": 0.013086905000022853,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "13.0.3",
+  "candidate_chests": 8,
+  "n": 20,
+  "input_sha256": "65dbc42727f150dd5ff4fb6ece34d0ea9b0a9165db1f05a96cc784d9d21682dc"
+}

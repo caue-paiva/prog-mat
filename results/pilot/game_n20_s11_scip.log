@@ -1,0 +1,32 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 489 upgd conss, 0 impls, 491 clqs, 0 implints
+(round 2, exhaustive) 0 del vars, 168 del conss, 8 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 489 upgd conss, 0 impls, 507 clqs, 0 implints
+   (0.0s) probing: 122/168 (72.6%) - 0 fixings, 0 aggregations, 163 implications, 0 bound changes
+   (0.0s) probing aborted: 50/50 successive totally useless probings
+   (0.0s) symmetry computation started: requiring (bin +, int +, cont +), (fixed: bin -, int -, cont -)
+   (0.0s) symmetry computation finished: 7 generators found (max: 1500, log10 of symmetry group size: 149.37) (symcode time: 0.00)
+dynamic symmetry handling statistics:
+   orbitopal reduction:        1 components: 8x3
+   orbital reduction:         no components
+   lexicographic reduction:    5 permutations with support sizes 16, 16, 16, 16, 16
+handled 6 out of 6 symmetry components
+presolving (3 rounds: 3 fast, 3 medium, 3 exhaustive):
+ 0 deleted vars, 168 deleted constraints, 8 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 0 implications, 670 cliques, 0 implied integral variables (0 bin, 0 int, 0 cont)
+presolved problem has 168 variables (168 bin, 0 int, 0 cont) and 329 constraints
+      8 constraints of type <knapsack>
+    313 constraints of type <setppc>
+      8 constraints of type <and>
+transformed objective value is always integral (scale: 1)
+Presolving Time: 0.01
+
+ time | node  | left  |LP iter|LP it/n|mem/heur|mdpt |vars |cons |rows |cuts |sepa|confs|strbr|  dualbound   | primalbound  |  gap   | compl. 
+p 0.0s|     1 |     0 |     0 |     - |shiftand|   0 | 168 | 364 | 337 |   0 |  0 |  34 |   0 | 0.000000e+00 | 8.000000e+00 |    Inf | unknown
+  0.0s|     1 |     0 |   201 |     - |  5895k |   0 | 168 | 364 | 337 |   0 |  0 |  34 |   0 | 8.000000e+00 | 8.000000e+00 |   0.00%| unknown
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.02
+Solving Nodes      : 1
+Primal Bound       : +8.00000000000000e+00 (1 solutions)
+Dual Bound         : +8.00000000000000e+00
+Gap                : 0.00 %

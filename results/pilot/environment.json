@@ -1,0 +1,24 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "cpu": "x86_64",
+  "logical_cpus": 9,
+  "packages": {
+    "gurobipy": "13.0.3",
+    "pyscipopt": "6.3.0",
+    "numpy": "2.5.4"
+  },
+  "arguments": {
+    "command": "benchmark",
+    "time_limit": 10.0,
+    "no_reduction": false,
+    "out": "results/pilot",
+    "instances": "instances",
+    "methods": [
+      "ffd",
+      "scip",
+      "gurobi"
+    ]
+  },
+  "base_commit": "a2943f1ea499052a24b09e428c8ccc51956a7124"
+}

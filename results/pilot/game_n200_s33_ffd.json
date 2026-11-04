@@ -1,0 +1,597 @@
+{
+  "instance_id": "game_n200_s33",
+  "method": "ffd",
+  "status": "feasible",
+  "raw_status": "complete",
+  "objective": 63,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i003",
+        "i005",
+        "i008"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i006",
+        "i010",
+        "i028"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i014",
+        "i024",
+        "i018"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i030",
+        "i049",
+        "i031"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i042",
+        "i057",
+        "i044"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i071",
+        "i088",
+        "i033"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i097",
+        "i157",
+        "i054"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i159",
+        "i165",
+        "i063"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b008",
+      "items": [
+        "i178",
+        "i183",
+        "i076"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b009",
+      "items": [
+        "i189",
+        "i195",
+        "i078"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b010",
+      "items": [
+        "i007",
+        "i040",
+        "i001"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b011",
+      "items": [
+        "i045",
+        "i053",
+        "i015"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b012",
+      "items": [
+        "i050",
+        "i073",
+        "i037"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b013",
+      "items": [
+        "i059",
+        "i101",
+        "i021"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b014",
+      "items": [
+        "i091",
+        "i100",
+        "i038"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b015",
+      "items": [
+        "i109",
+        "i110",
+        "i048"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b016",
+      "items": [
+        "i120",
+        "i137",
+        "i077"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b017",
+      "items": [
+        "i144",
+        "i147",
+        "i112"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b018",
+      "items": [
+        "i152",
+        "i162",
+        "i154"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b019",
+      "items": [
+        "i167",
+        "i171",
+        "i087"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b020",
+      "items": [
+        "i175",
+        "i009"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b021",
+      "items": [
+        "i012",
+        "i046",
+        "i011"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b022",
+      "items": [
+        "i026",
+        "i039",
+        "i016"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b023",
+      "items": [
+        "i061",
+        "i068",
+        "i023"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b024",
+      "items": [
+        "i080",
+        "i107",
+        "i035"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b025",
+      "items": [
+        "i121",
+        "i129",
+        "i072"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b026",
+      "items": [
+        "i131",
+        "i135",
+        "i079"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b027",
+      "items": [
+        "i139",
+        "i141",
+        "i060"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b028",
+      "items": [
+        "i142",
+        "i143",
+        "i083"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b029",
+      "items": [
+        "i145",
+        "i151",
+        "i085"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b030",
+      "items": [
+        "i153",
+        "i156",
+        "i086"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b031",
+      "items": [
+        "i158",
+        "i160",
+        "i093"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b032",
+      "items": [
+        "i166",
+        "i177",
+        "i113"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b033",
+      "items": [
+        "i192",
+        "i019",
+        "i075"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b034",
+      "items": [
+        "i020",
+        "i029",
+        "i000"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b035",
+      "items": [
+        "i034",
+        "i041",
+        "i032"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b036",
+      "items": [
+        "i047",
+        "i051",
+        "i004"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b037",
+      "items": [
+        "i062",
+        "i064",
+        "i052"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b038",
+      "items": [
+        "i067",
+        "i069",
+        "i027"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b039",
+      "items": [
+        "i070",
+        "i081",
+        "i066"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b040",
+      "items": [
+        "i090",
+        "i096",
+        "i082"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b041",
+      "items": [
+        "i098",
+        "i099",
+        "i084"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b042",
+      "items": [
+        "i111",
+        "i115",
+        "i105"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b043",
+      "items": [
+        "i116",
+        "i146",
+        "i108"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b044",
+      "items": [
+        "i179",
+        "i182",
+        "i134"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b045",
+      "items": [
+        "i185",
+        "i193",
+        "i150"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b046",
+      "items": [
+        "i196",
+        "i013",
+        "i102"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b047",
+      "items": [
+        "i002",
+        "i017",
+        "i022"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b048",
+      "items": [
+        "i025",
+        "i036",
+        "i043"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b049",
+      "items": [
+        "i055",
+        "i056",
+        "i058"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b050",
+      "items": [
+        "i065",
+        "i092",
+        "i095"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b051",
+      "items": [
+        "i074",
+        "i117",
+        "i122"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b052",
+      "items": [
+        "i118",
+        "i123",
+        "i140"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b053",
+      "items": [
+        "i148",
+        "i164",
+        "i169"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b054",
+      "items": [
+        "i170",
+        "i173",
+        "i184"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b055",
+      "items": [
+        "i186",
+        "i191",
+        "i197"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b056",
+      "items": [
+        "i104",
+        "i128",
+        "i130",
+        "i089",
+        "i124"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b057",
+      "items": [
+        "i132",
+        "i138",
+        "i174",
+        "i106",
+        "i126"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b058",
+      "items": [
+        "i163",
+        "i168",
+        "i176",
+        "i125"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b059",
+      "items": [
+        "i198",
+        "i133",
+        "i155",
+        "i103",
+        "i114",
+        "i094"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b060",
+      "items": [
+        "i127",
+        "i136",
+        "i161",
+        "i180",
+        "i188"
+      ],
+      "load": 10
+    },
+    {
+      "chest_id": "b061",
+      "items": [
+        "i194",
+        "i119",
+        "i149",
+        "i172",
+        "i181",
+        "i187",
+        "i199"
+      ],
+      "load": 8
+    },
+    {
+      "chest_id": "b062",
+      "items": [
+        "i190"
+      ],
+      "load": 1
+    }
+  ],
+  "lower_bound": 62,
+  "native_gap": null,
+  "gap_percent": null,
+  "distance_to_bound_percent": 1.6129032258064515,
+  "optimization_seconds": null,
+  "build_seconds": null,
+  "total_seconds": 0.0009044800000310715,
+  "validated": true,
+  "n": 200,
+  "input_sha256": "b05e662bcb7d3f4221a7c23193eb068fa062e6d511b135d0d7d3012012ba2bb7"
+}

@@ -1,0 +1,180 @@
+{
+  "instance_id": "game_n50_s33",
+  "method": "scip",
+  "status": "optimal",
+  "raw_status": "optimal",
+  "objective": 17,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i002",
+        "i003",
+        "i021",
+        "i035"
+      ],
+      "load": 19
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i000",
+        "i001",
+        "i004",
+        "i011",
+        "i012",
+        "i018"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i006",
+        "i008",
+        "i010"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i016",
+        "i025",
+        "i026",
+        "i039"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i041",
+        "i042",
+        "i043"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i009",
+        "i045"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i014",
+        "i020"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i023",
+        "i024",
+        "i027",
+        "i033"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b008",
+      "items": [
+        "i029",
+        "i030"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b009",
+      "items": [
+        "i037",
+        "i038",
+        "i046"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b010",
+      "items": [
+        "i013",
+        "i031",
+        "i040"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b011",
+      "items": [
+        "i015",
+        "i044",
+        "i049"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b012",
+      "items": [
+        "i017",
+        "i019",
+        "i032"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b013",
+      "items": [
+        "i022",
+        "i034",
+        "i048"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b014",
+      "items": [
+        "i036",
+        "i047"
+      ],
+      "load": 11
+    },
+    {
+      "chest_id": "b015",
+      "items": [
+        "i005"
+      ],
+      "load": 9
+    },
+    {
+      "chest_id": "b016",
+      "items": [
+        "i007",
+        "i028"
+      ],
+      "load": 10
+    }
+  ],
+  "lower_bound": 17.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.04142132899994522,
+  "optimization_seconds": 0.16319599999999998,
+  "total_seconds": 0.20645397900000262,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "PySCIPOpt 6.3.0; SCIP 10.0.2",
+  "candidate_chests": 17,
+  "n": 50,
+  "input_sha256": "6ef032e816477880ba3819e1dad9a75dcac85bf51d2973db8effcee7b37e88fe"
+}

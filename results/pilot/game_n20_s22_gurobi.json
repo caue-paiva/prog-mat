@@ -1,0 +1,78 @@
+{
+  "instance_id": "game_n20_s22",
+  "method": "gurobi",
+  "status": "optimal",
+  "raw_status": 2,
+  "objective": 5,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i000",
+        "i002",
+        "i008",
+        "i012"
+      ],
+      "load": 19
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i003",
+        "i004",
+        "i014",
+        "i016"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i001",
+        "i007",
+        "i015",
+        "i019"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i005",
+        "i006",
+        "i010",
+        "i011",
+        "i018"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i009",
+        "i013",
+        "i017"
+      ],
+      "load": 15
+    }
+  ],
+  "lower_bound": 5.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.004540984000072967,
+  "optimization_seconds": 0.006741046905517578,
+  "total_seconds": 0.01172228100006123,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "13.0.3",
+  "candidate_chests": 6,
+  "n": 20,
+  "input_sha256": "a22c23e1ac4fbdef750d698ef72dd3a1af676fcf60e704d1b20a20e8f3232932"
+}

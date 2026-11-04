@@ -1,0 +1,2 @@
+presolving:
+(round 1, exhaustive) 0 del vars, 0 del conss, 0 add conss, 0 chg bounds, 0 chg sides, 0 chg coeffs, 179958 upgd conss, 0 impls, 180558 clqs, 0 implints

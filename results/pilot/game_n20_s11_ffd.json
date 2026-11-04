@@ -1,0 +1,87 @@
+{
+  "instance_id": "game_n20_s11",
+  "method": "ffd",
+  "status": "feasible",
+  "raw_status": "complete",
+  "objective": 8,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i001",
+        "i003",
+        "i013",
+        "i015"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i005",
+        "i014",
+        "i010"
+      ],
+      "load": 19
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i009",
+        "i004",
+        "i017"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i000",
+        "i016",
+        "i006"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i002",
+        "i011"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i007",
+        "i008",
+        "i012"
+      ],
+      "load": 14
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i018"
+      ],
+      "load": 8
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i019"
+      ],
+      "load": 8
+    }
+  ],
+  "lower_bound": 8,
+  "native_gap": null,
+  "gap_percent": null,
+  "distance_to_bound_percent": 0.0,
+  "optimization_seconds": null,
+  "build_seconds": null,
+  "total_seconds": 6.199400002060429e-05,
+  "validated": true,
+  "n": 20,
+  "input_sha256": "65dbc42727f150dd5ff4fb6ece34d0ea9b0a9165db1f05a96cc784d9d21682dc"
+}

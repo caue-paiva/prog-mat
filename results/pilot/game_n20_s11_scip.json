@@ -1,0 +1,96 @@
+{
+  "instance_id": "game_n20_s11",
+  "method": "scip",
+  "status": "optimal",
+  "raw_status": "optimal",
+  "objective": 8,
+  "bins": [
+    {
+      "chest_id": "b000",
+      "items": [
+        "i000",
+        "i001",
+        "i006"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b001",
+      "items": [
+        "i002",
+        "i004",
+        "i007"
+      ],
+      "load": 20
+    },
+    {
+      "chest_id": "b002",
+      "items": [
+        "i003",
+        "i008",
+        "i013",
+        "i015",
+        "i017"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b003",
+      "items": [
+        "i005",
+        "i010",
+        "i012"
+      ],
+      "load": 13
+    },
+    {
+      "chest_id": "b004",
+      "items": [
+        "i009",
+        "i016"
+      ],
+      "load": 13
+    },
+    {
+      "chest_id": "b005",
+      "items": [
+        "i011",
+        "i018"
+      ],
+      "load": 15
+    },
+    {
+      "chest_id": "b006",
+      "items": [
+        "i014"
+      ],
+      "load": 9
+    },
+    {
+      "chest_id": "b007",
+      "items": [
+        "i019"
+      ],
+      "load": 8
+    }
+  ],
+  "lower_bound": 8.0,
+  "native_gap": 0.0,
+  "gap_percent": 0.0,
+  "build_seconds": 0.009284954000008838,
+  "optimization_seconds": 0.023052,
+  "total_seconds": 0.03280586200003199,
+  "validated": true,
+  "parameters": {
+    "time_limit": 10.0,
+    "threads": 1,
+    "seed": 0,
+    "mip_gap": 0,
+    "reduce_candidates": true,
+    "warm_start": false
+  },
+  "version": "PySCIPOpt 6.3.0; SCIP 10.0.2",
+  "candidate_chests": 8,
+  "n": 20,
+  "input_sha256": "65dbc42727f150dd5ff4fb6ece34d0ea9b0a9165db1f05a96cc784d9d21682dc"
+}
